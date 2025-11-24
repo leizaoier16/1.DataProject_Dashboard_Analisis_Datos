@@ -1,4 +1,89 @@
-KPIs Analisis								
-								
-Cuenta de Car ID		Promedio de Price (USD)		Promedio de Mileage		Promedio de Engine size (L)		
-2500		47.743		149.750		3		
+KPIs Analisis										
+										
+Cuenta de Car ID		Promedio de Price (USD)		Promedio de Mileage		Promedio de Engine size (L)				
+2500		47.743		149.750		3				
+										
+										
+										
+Marca y Modelo										
+										
+										
+Etiquetas de fila	Cuenta de Car ID	Promedio de Price (USD)		Etiquetas de fila	Cuenta de Car ID	Promedio de Price (USD)		Etiquetas de fila	Cuenta de Car ID	Promedio de Price (USD)
+Toyota	374	48.019 €		Fiesta	103	48.337 €		Mustang	77	41.494 €
+Audi	368	46.798 €		Corolla	103	49.381 €		Model S	79	48.648 €
+BMW	358	49.582 €		A3	98	43.944 €		Q5	79	48.025 €
+Mercedes	353	45.259 €		A4	96	45.327 €		GLC	80	49.354 €
+Honda	352	47.773 €		Q7	95	50.210 €		Civic	80	48.346 €
+Tesla	348	49.475 €		CR-V	95	46.610 €		X5	80	45.993 €
+Ford	347	47.307 €		Total general	590	47.323 €		Total general	475	47.006 €
+Total general	2500	47.743 €								
+										
+										
+										
+Año							Tipo Combustible			
+										
+Etiquetas de fila	Cuenta de Car ID						Etiquetas de fila	Cuenta de Car ID		
+2000-2004	530						Diesel	655		
+2005-2009	498						Electric	614		
+2010-2014	511						Hybrid	601		
+2015-2019	512						Petrol	630		
+2020-2025	449						Total general	2500		
+Total general	2500									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+										
+Cilindrada							Transmisión			
+										
+										
+Etiquetas de fila	Cuenta de Car ID						Etiquetas de fila	Cuenta de Car ID		
+1-2	479						Automatic	1192		
+2-3	517						Manual	1308		
+3-4	511						Total general	2500		
+4-5	484									
+5-6	509									
+Total general	2500									
+										
+										
+										
+										
+										
+										
+										
+										
+Kilometros							Estado			
+										
+										
+Etiquetas de fila	Cuenta de Car ID						Etiquetas de fila	Cuenta de Car ID		
+15-50014	427						Like New	836		
+50015-100014	415						New	809		
+100015-150014	419						Used	855		
+150015-200014	398						Total general	2500		
+200015-250014	398									
+250015-300014	443									
+Total general	2500									
+										
+										
+										
+										
+										
+										
+										
+										
+										
+Precio										
+										
+										
+Etiquetas de fila	Cuenta de Car ID									
+0-20000	615									
+20000-40000	459									
+40000-60000	485									
+60000-80000	466									
+80000-100000	475									
+Total general	2500									
