@@ -14,7 +14,7 @@ Elaboración de un informe explicativo con conclusiones finales.
 
 ESTRUCTURA DEL PROYECTO
 
-📁 1.DataProject_Dashboard_AnalisisDatos
+1.DataProject_Dashboard_AnalisisDatos
 ├── data/
 │   ├── car_price_prediction.csv        # Datos crudos
 │   └── 1.Project_Dashboard_AnalisisDatos.xlsx        # Datos transformados y limpios
@@ -46,7 +46,7 @@ Cilindrada: Los coches de 3–4 L son los más caros, mientras que los más vend
 En general, no existen factores que generen cambios drásticos en el precio o las ventas, pero estas pequeñas tendencias pueden ayudar a compradores y vendedores a tomar mejores decisiones.
 Por ejemplo, optar por marcas como Toyota o por vehículos diésel puede alinearse con lo que más se vende según el dataset.
 
-📄 Nota: El análisis completo y detallado está ampliado en el Informe Explicativo incluido en el archivo Excel.
+ Nota: El análisis completo y detallado está ampliado en el Informe Explicativo incluido en el archivo Excel.
 
 AUTOR
 
